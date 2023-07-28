@@ -17,4 +17,4 @@ while(number >= 0) {
 }
 
 // display the sum
-console.log(`The sum is ${sum}.`);
+console.log(`Rotal sum ${sum}.`);
