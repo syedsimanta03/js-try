@@ -6,4 +6,4 @@ const num2 = parseInt(prompt('Enter the second number '));
 const sum = num1 + num2;
 
 // display the sum
-console.log(`The sum of ${num1} and ${num2} is ${sum}`);
+console.log(`Sum of ${num1} and ${num2} is ${sum}`);
